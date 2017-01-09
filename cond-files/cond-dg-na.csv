@@ -1,0 +1,5 @@
+report,attnTask,dirL,dirR,vL,vR,szL,szR,sfL,sfR,colL,colR,fixCross,attnTargN,attnTargJit,trialT,trialN
+0,1,0,180,6.7,6.7,256,256,0.15,0.15,green,red,0,5,1,60,1
+0,1,180,0,6.7,6.7,256,256,0.15,0.15,green,red,0,5,1,60,1
+0,1,0,180,6.7,6.7,256,256,0.15,0.15,red,green,0,5,1,60,1
+0,1,180,0,6.7,6.7,256,256,0.15,0.15,red,green,0,5,1,60,1

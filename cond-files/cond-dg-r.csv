@@ -1,0 +1,5 @@
+report,dirL,dirR,vL,vR,szL,szR,sfL,sfR,colL,colR,fixCross,trialT,trialN
+1,0,180,6.7,6.7,256,256,0.15,0.15,green,red,0,60,1
+1,180,0,6.7,6.7,256,256,0.15,0.15,green,red,0,60,1
+1,0,180,6.7,6.7,256,256,0.15,0.15,red,green,0,60,1
+1,180,0,6.7,6.7,256,256,0.15,0.15,red,green,0,60,1
